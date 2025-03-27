@@ -22,3 +22,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zxwmr01&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="zxwmr01 github stats" width="450px" height="170" /></a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxwmr01&layout=compact&theme=material-palenight" alt="Top Langs" width="389px" height="168" /></a>
+
+### 我的主页访问次数：
+
+<img align="center" src="https://count.getloli.com/@zxwmr01?name=zxwmr01&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="zxwmr01 github stats" width="450px" height="170" /></a>
